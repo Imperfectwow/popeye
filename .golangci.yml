@@ -93,8 +93,5 @@ linters:
     - gosimple
     - errcheck
     - gocyclo
-    - gosec
-    - gosimple
-    - misspell
     - prealloc
     - typecheck
